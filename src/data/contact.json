@@ -1,31 +1,16 @@
 {
   "title": "Kontakt",
-  "description": "Skontaktuj się ze mną, aby umówić wizytę lub zadać pytanie:",
-  "formFields": {
-    "name": {
-      "label": "Imię i nazwisko",
-      "placeholder": "Wpisz swoje imię i nazwisko",
-      "required": true
-    },
-    "subject": {
-      "label": "Temat",
-      "placeholder": "Czego dotyczy Twoja wiadomość?",
-      "required": false
-    },
-    "message": {
-      "label": "Wiadomość",
-      "placeholder": "Opisz swoją sprawę...",
-      "required": true
-    },
-    "gdprCheckbox": {
-      "label": "Wyrażam zgodę na przetwarzanie moich danych osobowych zgodnie z polityką prywatności.",
-      "required": true
-    }
-  },
+  "description": "Skontaktuj się ze mną, aby umówić wizytę lub zadać pytanie",
+  "formFields": [
+    "imię i nazwisko",
+    "temat",
+    "wiadomość",
+    "zgoda RODO"
+  ],
   "submitButton": "Wyślij wiadomość",
-  "calendlyLink": "https://calendly.com/empathy-therapy/consultation",
+  "calendlyLink": "",
   "appointmentButtonText": "Zarezerwuj termin online",
-  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=...",
+  "mapEmbedUrl": "",
   "phone": "600 670 670",
   "email": "adam@gmail.com"
 }
