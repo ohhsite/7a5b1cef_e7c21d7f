@@ -49,5 +49,11 @@
   "crisisHelp": {
     "phoneNumber": "116 123",
     "availabilityText": "Telefon czynny 24/7"
-  }
+  },
+  "therapist.name": "Emil Kowalski",
+  "therapist.title": "Coach",
+  "therapist.email": "adam@gmail.com",
+  "therapist.phone": "600 670 670",
+  "therapist.cityName": "Warszawa",
+  "therapist.address": "ul. Nowogrodzka 15"
 }
